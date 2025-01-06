@@ -1,3 +1,3 @@
-<h1>CRUD en Django Rest Framework  y haciendo el deploy en Render.com</h1>
+              <h1>CRUD Django Rest Framework  and deploy in render</h1>
 
-https://djangorf-simple.onrender.com/
+                https://djangorf-simple.onrender.com/
